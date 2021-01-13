@@ -1,9 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PangMo5&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PangMo5&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PangMo5&layout=compact&theme=radical" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pangmo5&show_icons=true&locale=en&layout=compact&theme=dracula" alt="pangmo5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pangmo5&show_icons=true&locale=en&theme=dracula" alt="pangmo5" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pangmo5&theme=dracula" alt="pangmo5" /></p>
