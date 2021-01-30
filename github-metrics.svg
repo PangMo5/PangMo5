@@ -1302,7 +1302,7 @@
                   
                   <div class="name">
                     <span>spotify/XCMetrics</span>
-                    <span>starred 7 days ago</span>
+                    <span>starred 8 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1357,7 +1357,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Asia/Seoul</span>
-          <span>Last updated Sat, 30 Jan 2021 05:14:26 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 30 Jan 2021 06:10:24 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
