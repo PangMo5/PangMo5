@@ -1017,7 +1017,7 @@
               <li>Mostly push code around 03:00</li>
             
             
-              <li>Mostly active on tuesday</li>
+              <li>Mostly active on monday</li>
             
           </ul>
         
@@ -1158,8 +1158,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               21
             </div>
           
@@ -1187,43 +1187,43 @@
             
               <div class="entry">
                 <span class="value">12</span>
-                <div class="bar" style="height: 17.647058823529413px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
             
               <div class="entry">
                 <span class="value">32</span>
-                <div class="bar" style="height: 47.05882352941176px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Mon
               </div>
             
               <div class="entry">
-                <span class="value">34</span>
+                <span class="value">32</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Tue
               </div>
             
               <div class="entry">
                 <span class="value">14</span>
-                <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
             
               <div class="entry">
                 <span class="value">30</span>
-                <div class="bar" style="height: 44.11764705882353px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 46.875px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
             
               <div class="entry">
                 <span class="value">12</span>
-                <div class="bar" style="height: 17.647058823529413px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Fri
               </div>
             
               <div class="entry">
                 <span class="value">8</span>
-                <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
             
@@ -1276,7 +1276,7 @@
                   
                   <div class="name">
                     <span>kotritrona/osumapper</span>
-                    <span>starred 4 hours ago</span>
+                    <span>starred 5 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1479,7 +1479,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Seoul</span>
           
-          <span>Last updated Tue, 09 Feb 2021 11:10:36 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Tue, 09 Feb 2021 12:12:19 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
