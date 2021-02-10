@@ -1140,8 +1140,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               18
             </div>
           
@@ -1204,8 +1204,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">14</span>
-                <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">12</span>
+                <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
             
@@ -1276,7 +1276,7 @@
                   
                   <div class="name">
                     <span>robb0wen/synthwave-vscode</span>
-                    <span>starred 7 hours ago</span>
+                    <span>starred 8 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1479,7 +1479,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Seoul</span>
           
-          <span>Last updated Wed, 10 Feb 2021 09:12:21 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Wed, 10 Feb 2021 10:18:41 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
