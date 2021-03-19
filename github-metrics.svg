@@ -1531,14 +1531,14 @@
             
               <div class="entry">
                 <span class="name">Swift</span>
-                <div class="bar" style="width: 78.816%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                <span class="value">99%</span>
+                <div class="bar" style="width: 78.792%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">98%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Objective-C</span>
-                <div class="bar" style="width: 1.1840000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">1%</span>
+                <div class="bar" style="width: 1.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">2%</span>
               </div>
             
           </div>
@@ -1674,7 +1674,7 @@
                   
                   <div class="name">
                     <span>WDaan/VueTorrent</span>
-                    <span>starred 27 days ago</span>
+                    <span>starred 28 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1794,7 +1794,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Seoul</span>
           
-          <span>Last updated Fri, 19 Mar 2021 07:07:38 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Fri, 19 Mar 2021 08:10:50 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
