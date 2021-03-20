@@ -1326,14 +1326,14 @@
         <div class="chart-bars">
           
             <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               00
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               01
             </div>
           
@@ -1480,8 +1480,8 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">4</span>
-                <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">2</span>
+                <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sun
               </div>
             
@@ -1531,13 +1531,13 @@
             
               <div class="entry">
                 <span class="name">Swift</span>
-                <div class="bar" style="width: 78.8%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                <span class="value">99%</span>
+                <div class="bar" style="width: 78.792%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">98%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Objective-C</span>
-                <div class="bar" style="width: 1.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 1.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">2%</span>
               </div>
             
@@ -1794,7 +1794,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Seoul</span>
           
-          <span>Last updated Sat, 20 Mar 2021 15:13:04 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Sat, 20 Mar 2021 16:18:38 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
