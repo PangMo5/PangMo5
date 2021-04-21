@@ -1466,16 +1466,16 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            4
+                            3
                         </span>
-                        <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         11
                     </div>
                     <div class="entry">
                         <span class="value">
-                            3
+                            2
                         </span>
-                        <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         12
                     </div>
                     <div class="entry">
@@ -1574,9 +1574,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                7
+                                5
                             </span>
-                            <div class="bar" style="height: 23.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -1637,7 +1637,7 @@
                                             mattermost/focalboard
                                         </span>
                                         <span>
-                                            starred 24 hours ago
+                                            starred 1 day ago
                                         </span>
                                     </div>
                                 </div>
@@ -1860,7 +1860,7 @@
                     These metrics include private contributions, timezone Asia/Seoul
                 </span>
                 <span>
-                    Last updated Wed, 21 Apr 2021 02:02:02 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 21 Apr 2021 03:19:33 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
