@@ -1485,9 +1485,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            1
+                            3
                         </span>
-                        <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         14
                     </div>
                     <div class="entry">
@@ -1558,9 +1558,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                3
+                                5
                             </span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -1635,7 +1635,7 @@
                                             nicklockwood/SwiftFormat
                                         </span>
                                         <span>
-                                            starred 3 hours ago
+                                            starred 4 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1858,7 +1858,7 @@
                     These metrics include private contributions, timezone Asia/Seoul
                 </span>
                 <span>
-                    Last updated Mon, 26 Apr 2021 05:20:21 GMT with lowlighter/metrics@3.7.0
+                    Last updated Mon, 26 Apr 2021 06:16:42 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
