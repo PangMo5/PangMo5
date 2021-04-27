@@ -1444,10 +1444,8 @@
                         07
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            2
-                        </span>
-                        <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         08
                     </div>
                     <div class="entry">
@@ -1574,9 +1572,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                5
+                                3
                             </span>
-                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -1609,7 +1607,7 @@
                             <span class="name">
                                 Swift
                             </span>
-                            <div class="bar" style="width: 76.64%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 76.47999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
                                 96%
                             </span>
@@ -1618,7 +1616,7 @@
                             <span class="name">
                                 Shell
                             </span>
-                            <div class="bar" style="width: 3.3600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.5200000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 4%
                             </span>
@@ -1646,7 +1644,7 @@
                                             compnerd/swift-win32
                                         </span>
                                         <span>
-                                            starred 16 hours ago
+                                            starred 17 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1740,7 +1738,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                         </svg>
-                                        717
+                                        718
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1875,7 +1873,7 @@
                     These metrics include private contributions, timezone Asia/Seoul
                 </span>
                 <span>
-                    Last updated Tue, 27 Apr 2021 22:15:46 GMT with lowlighter/metrics@3.7.0
+                    Last updated Tue, 27 Apr 2021 23:14:00 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
