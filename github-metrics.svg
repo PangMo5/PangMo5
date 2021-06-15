@@ -1547,8 +1547,8 @@
               18
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1588,8 +1588,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">4</span>
-                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">2</span>
+                <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1692,7 +1692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jolomann/etterna-united</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1811,7 +1811,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 15 Jun 2021 19:10:21 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 15 Jun 2021 20:08:00 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
