@@ -1537,8 +1537,8 @@
               16
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               17
             </div>
                     <div class="entry">
@@ -1593,8 +1593,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">16</span>
-                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">18</span>
+                <div class="bar" style="height: 45px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1640,7 +1640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SwiftUIX/Coordinator</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1720,7 +1720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>623637646/ImpressionKit</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1801,7 +1801,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 30 Jun 2021 16:08:18 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 30 Jun 2021 17:10:28 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
