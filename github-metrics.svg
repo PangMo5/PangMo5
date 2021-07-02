@@ -1209,7 +1209,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            2374 Commits
+            2377 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1390,14 +1390,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.63902038920767" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="171.63902038920767" y="0" width="103.76785553774475" height="8" fill="#ffac45"/>
-                    <rect mask="url(#languages-bar)" x="275.4068759269524" y="0" width="93.76989670566734" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="369.17677263261976" y="0" width="43.92051242678013" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="413.0972850593999" y="0" width="36.1837556740723" height="8" fill="#71b417"/>
-                    <rect mask="url(#languages-bar)" x="449.2810407334722" y="0" width="5.719333792752169" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.0003745262244" y="0" width="3.940306137735764" height="8" fill="#6866fb"/>
-                    <rect mask="url(#languages-bar)" x="458.94068066396017" y="0" width="1.0593193360399094" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.31148031228213" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="171.31148031228213" y="0" width="104.44765610836048" height="8" fill="#ffac45"/>
+                    <rect mask="url(#languages-bar)" x="275.7591364206426" y="0" width="93.59095488281943" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="369.3500913034621" y="0" width="43.8366985714793" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="413.1867898749414" y="0" width="36.11470593182799" height="8" fill="#71b417"/>
+                    <rect mask="url(#languages-bar)" x="449.30149580676937" y="0" width="5.708419543613523" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.00991535038287" y="0" width="3.932786820901297" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="458.94270217128417" y="0" width="1.0572978287158268" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1442,7 +1442,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 48.0 characters per line of code written</li>
+                        <li>Has approximately 44.9 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -1532,8 +1532,8 @@
               15
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               16
             </div>
                     <div class="entry">
@@ -1603,8 +1603,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">15</span>
-                <div class="bar" style="height: 39.473684210526315px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">17</span>
+                <div class="bar" style="height: 44.73684210526316px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1640,7 +1640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SwiftUIX/Coordinator</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1720,7 +1720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>623637646/ImpressionKit</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1801,7 +1801,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 02 Jul 2021 16:12:09 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 02 Jul 2021 17:13:45 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
