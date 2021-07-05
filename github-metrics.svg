@@ -1640,7 +1640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kean/Pulse</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1801,7 +1801,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 05 Jul 2021 19:13:00 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 05 Jul 2021 20:10:47 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
