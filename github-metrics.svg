@@ -1640,7 +1640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kean/Pulse</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1682,7 +1682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TokamakUI/Tokamak</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1801,7 +1801,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 06 Jul 2021 02:18:47 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 06 Jul 2021 03:13:35 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
