@@ -1673,17 +1673,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Swift</span>
-                            <div class="bar" style="width: 79.19795136157464%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.19760218348655%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">99%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Limbo</span>
-                            <div class="bar" style="width: 0.6989472274758566%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.6992515195659819%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.10310141094950374%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.1031462969474724%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1869,7 +1869,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 08/08/2021, 21:13 (timezone Asia/Seoul) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 08/08/2021, 22:14 (timezone Asia/Seoul) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
