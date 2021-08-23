@@ -1733,22 +1733,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Swift</span>
-                            <div class="bar" style="width: 79.74320045113434%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.74254153257371%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.13360517069361905%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.13394798643124292%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 0.062464755129484226%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.06262503261720449%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Objective-C</span>
-                            <div class="bar" style="width: 0.06072962304255411%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.0608854483778377%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1769,7 +1769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eradman/entr</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1895,7 +1895,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devhubapp/devhub</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1934,7 +1934,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23/08/2021, 12:10 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 23/08/2021, 13:11 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
