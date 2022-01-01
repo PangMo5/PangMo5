@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1335" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1352" class="">
     <defs>
         <style/>
     </defs>
@@ -2009,7 +2009,7 @@
                                     </div>
                                 </div>
                                 <div class="field description">
-                  🏗 A Next-generation Autolayout DSL for iOS.
+                  🏗 A way to build AutoLayout rapidly than using InterfaceBuilder(XIB, Storyboard) in iOS.
                 </div>
                                 <div class="field infos">
                                     <div class="language">
@@ -2086,7 +2086,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2022, 02:18:13 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 2 Jan 2022, 03:11:55 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
