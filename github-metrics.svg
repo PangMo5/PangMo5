@@ -568,17 +568,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Swift</span>
-                            <div class="bar" style="width: 71.15989067304407%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 70.95921821258939%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">89%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Objective-C</span>
-                            <div class="bar" style="width: 6.5288691492996245%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.677075940383251%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">8%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 2.3112401776563036%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.3637058470273518%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                     </div>
@@ -601,7 +601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kean/CreateAPI</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Delightful code generator for OpenAPI specs</div>
@@ -804,7 +804,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2022, 09:38:26 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 11:04:40 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
