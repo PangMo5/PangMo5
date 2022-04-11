@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ra1028/swiftui-atomic-architecture</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚛️ A declarative state management and dependency injection library for SwiftUI x Concurrency.</div>
@@ -647,7 +647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sparrowcode/SPIndicator</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Floating indicator, mimicrate to indicator which appear when silent mode switched. Can be present from top and bottom. Interactive with gesters.</div>
@@ -803,7 +803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2022, 14:10:56 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 11 Apr 2022, 15:14:55 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
