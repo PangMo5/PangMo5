@@ -570,7 +570,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 72.82415446417002%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 72.89905621665983%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">91%</span>
                             </div>
                         </div>
@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JanDeDobbeleer/oh-my-posh</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A prompt theme engine for any shell.</div>
@@ -647,7 +647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nushell/nushell</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new type of shell</div>
@@ -700,7 +700,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Peltoche/lsd</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The next gen ls command</div>
@@ -753,7 +753,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ClementTsang/bottom</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yet another cross-platform graphical process/system monitor.</div>
@@ -803,7 +803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2022, 19:09:13 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 6 May 2022, 20:07:23 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
