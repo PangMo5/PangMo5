@@ -570,8 +570,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 62.082675336739435%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">78%</span>
+                                <div class="bar" style="width: 61.72587561426023%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">77%</span>
                             </div>
                         </div>
                     </section>
@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raycast/extensions</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Everything you need to extend Raycast.</div>
@@ -807,7 +807,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2022, 21:14:41 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 3 Jun 2022, 22:24:59 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
