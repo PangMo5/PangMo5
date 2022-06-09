@@ -570,8 +570,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 59.51647426225482%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">74%</span>
+                                <div class="bar" style="width: 59.72653713162376%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                         </div>
                     </section>
@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markst/hotreloading-vscode-ios</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Demonstrating iOS development environment in VSCode using XcodeGen + HotReloading.</div>
@@ -801,7 +801,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2022, 18:15:48 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 9 Jun 2022, 19:10:28 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
