@@ -570,17 +570,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 40.151688082176655%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">50%</span>
+                                <div class="bar" style="width: 41.46087286797783%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mustache</span>
-                                <div class="bar" style="width: 7.489169520022582%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.2431187760382665%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 0.020617797577408784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.019940416137493918%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -807,7 +807,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2022, 03:09:21 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 22 Jun 2022, 04:05:09 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
