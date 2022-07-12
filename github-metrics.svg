@@ -570,8 +570,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 63.40221610252185%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">79%</span>
+                                <div class="bar" style="width: 63.88847616134248%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">80%</span>
                             </div>
                         </div>
                     </section>
@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rightpoint/BonMot</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beautiful, easy attributed strings in Swift</div>
@@ -791,7 +791,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2022, 18:13:23 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Jul 2022, 19:17:23 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
