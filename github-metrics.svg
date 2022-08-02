@@ -570,17 +570,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 38.4044210174324%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 38.39192089799078%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">48%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 2.4005843064440904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.421619339174496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 0.17740388422988587%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.177346141665787%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -604,7 +604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jellyfin/jellyfin.org</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rework and improvement of the Jellyfin website and user documentation</div>
@@ -813,7 +813,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 05:15:14 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 06:08:07 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
