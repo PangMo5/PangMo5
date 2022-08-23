@@ -570,12 +570,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Swift</span>
-                                <div class="bar" style="width: 73.12156783148968%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 73.13304335120432%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">91%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 0.5656100943811102%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5745692416630138%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -758,7 +758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fbelavenuto/arpl</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated Redpill Loader</div>
@@ -808,7 +808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 23:08:07 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 00:08:28 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
