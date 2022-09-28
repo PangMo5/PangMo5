@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Canop/broot</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new way to see and navigate directory trees : https://dystroy.org/broot</div>
@@ -647,7 +647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MarkCodable/MarkCodable</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Swift Codable with human-friendly Markdown storage</div>
@@ -700,7 +700,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aheze/Prism</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight 3D renderer for SwiftUI.</div>
@@ -803,7 +803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2022, 04:14:32 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 29 Sept 2022, 05:11:20 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
