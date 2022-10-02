@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Canop/broot</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new way to see and navigate directory trees : https://dystroy.org/broot</div>
@@ -803,7 +803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2022, 00:09:44 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 3 Oct 2022, 01:12:19 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
