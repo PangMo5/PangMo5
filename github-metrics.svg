@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brave/brave-browser</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next generation Brave browser for Android, Linux, macOS, Windows.</div>
@@ -647,7 +647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AuroraEditor/AuroraEditor</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.</div>
@@ -803,7 +803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Oct 2022, 18:15:49 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Oct 2022, 19:10:10 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
