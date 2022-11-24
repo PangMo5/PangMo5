@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Netflix/vmaf</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Perceptual video quality assessment based on multi-method fusion.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fifonik/FFMetrics</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualizes Video Quality Metrics (PSNR, SSIM &amp; VMAF) calculated by ffmpeg.exe</div>
@@ -786,7 +786,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2022, 04:07:12 (timezone Asia/Seoul) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 25 Nov 2022, 05:08:24 (timezone Asia/Seoul) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
