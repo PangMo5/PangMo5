@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pointfreeco/swift-dependencies</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A dependency management library inspired by SwiftUI's "environment."</div>
@@ -792,7 +792,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2023, 05:08:04 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Jan 2023, 06:06:51 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
