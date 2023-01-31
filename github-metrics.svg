@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>woelper/oculante</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimalistic crossplatform image viewer written in rust</div>
@@ -695,7 +695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>invoke-ai/InvokeAI</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.</div>
@@ -748,7 +748,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intitni/CopilotForXcode</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The missing Github Copilot Xcode Source Editor Extension</div>
@@ -798,7 +798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2023, 21:13:31 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 31 Jan 2023, 22:19:39 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
