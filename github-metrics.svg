@@ -752,7 +752,7 @@
                                         <span>starred 22 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">OpenAI's Code Interpreter in your terminal, running locally</div>
+                                <div class="field description">Let language models run code on your computer.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -799,7 +799,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2023, 09:31:34 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2023, 10:39:32 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
