@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SwiftcordApp/DiscordKit</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift</div>
@@ -690,7 +690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zyddnys/manga-image-translator</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/</div>
@@ -793,7 +793,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2023, 20:05:43 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2023, 21:11:48 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
