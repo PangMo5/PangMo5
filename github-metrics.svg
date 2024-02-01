@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>acomagu/fish-async-prompt</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make your prompt asynchronous to improve the reactivity.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jorgebucaran/fisher</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin manager for Fish</div>
@@ -695,7 +695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sanzaru/SimpleToast</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content it is also possible to use the library for showing simple modals.</div>
@@ -798,7 +798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2024, 05:07:45 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Feb 2024, 06:06:48 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
