@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.20288386485834" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="398.20288386485834" y="0" width="18.860584142606392" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="417.06346800746473" y="0" width="14.510868973045364" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="431.5743369805101" y="0" width="8.617641261237702" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="440.1919782417478" y="0" width="5.791219189181693" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.9831974309295" y="0" width="5.384267266142867" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="451.36746469707236" y="0" width="4.85010370977903" height="8" fill="#71b417"/>
-                    <rect mask="url(#languages-bar)" x="456.2175684068514" y="0" width="3.7824315931486168" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.2017005579708" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="398.2017005579708" y="0" width="18.860528096153637" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="417.0622286541244" y="0" width="14.510825852284826" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="431.5730545064092" y="0" width="8.61761565289916" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="440.19067015930835" y="0" width="5.79120197989007" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.98187213919846" y="0" width="5.385618210471784" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.3674903496702" y="0" width="4.850089297123176" height="8" fill="#71b417"/>
+                    <rect mask="url(#languages-bar)" x="456.2175796467934" y="0" width="3.7824203532065246" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -387,12 +387,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 77 commits)</small>
+                    <small class="h-details">(computed from last 80 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 42.7 characters per line of code written</li>
+                        <li>Has approximately 44.4 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -468,8 +468,8 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -544,8 +544,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">13</span>
-                                <div class="bar" style="height: 34.21052631578947px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">16</span>
+                                <div class="bar" style="height: 42.10526315789473px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>johmsalas/text-case.nvim</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An all in one plugin for converting text case in Neovim</div>
@@ -792,7 +792,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2024, 13:09:51 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2024, 14:08:15 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
