@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvim-telescope/telescope-frecency.nvim</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvim-telescope/telescope.nvim</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find, Filter, Preview, Pick. All lua, all the time.</div>
@@ -695,7 +695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numToStr/Comment.nvim</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -752,7 +752,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>486c/rosu-memory</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight, cross-platform memory reader for osu! but in rust</div>
@@ -796,7 +796,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2024, 23:07:32 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2024, 00:07:38 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
