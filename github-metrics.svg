@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/trouble.nvim</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>olimorris/codecompanion.nvim</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>
@@ -799,7 +799,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2024, 06:08:01 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2024, 07:08:29 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
