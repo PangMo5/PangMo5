@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrcjkb/rustaceanvim</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>
@@ -793,7 +793,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2024, 18:09:23 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jul 2024, 19:08:09 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
