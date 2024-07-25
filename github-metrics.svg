@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MagicDuck/grug-far.nvim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find And Replace plugin for neovim</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lewis6991/whatthejump.nvim</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Show jumplist in a floating window.</div>
@@ -695,7 +695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lewis6991/hover.nvim</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hover plugin framework for Neovim</div>
@@ -748,7 +748,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lewis6991/satellite.nvim</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Decorate scrollbar for Neovim</div>
@@ -798,7 +798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2024, 02:08:03 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2024, 03:11:05 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
