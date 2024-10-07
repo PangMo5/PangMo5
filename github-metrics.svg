@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fireplusteam/ios-swift-for-vs-code</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VS Code extension to Write/Debug/Build/Test iOS applications on Visual Studio Code</div>
@@ -749,7 +749,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rest-nvim/rest.nvim</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast Neovim http client written in Lua</div>
@@ -799,7 +799,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2024, 00:10:16 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2024, 01:11:30 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
