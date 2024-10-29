@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bootandy/dust</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A more intuitive version of du in rust</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/fd</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, fast and user-friendly alternative to 'find'</div>
@@ -798,7 +798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2024, 01:12:18 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2024, 02:09:21 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
