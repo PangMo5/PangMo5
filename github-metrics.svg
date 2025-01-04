@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>altsem/gitu</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TUI Git client inspired by Magit</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikavilpas/yazi.nvim</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Neovim Plugin for the yazi terminal file manager</div>
@@ -792,7 +792,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2025, 13:11:32 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2025, 14:09:11 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
