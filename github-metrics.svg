@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>altsem/gitu</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TUI Git client inspired by Magit</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikavilpas/yazi.nvim</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Neovim Plugin for the yazi terminal file manager</div>
@@ -748,7 +748,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isak102/ghostty.nvim</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically validate your Ghostty configuration on save</div>
@@ -792,7 +792,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2025, 20:07:20 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2025, 21:16:19 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
