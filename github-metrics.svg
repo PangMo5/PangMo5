@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rakalex/mac-brightnessctl</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI tool for controlling keyboard backlight brightness on Mac</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Byron/dua-cli</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">View disk space usage and delete unwanted data, fast.</div>
@@ -695,7 +695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MatthiasGrandl/Loungy</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.</div>
@@ -748,7 +748,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>project-gauntlet/gauntlet</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Raycast-inspired open-source cross-platform application launcher with React-based plugins</div>
@@ -798,7 +798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2025, 21:17:25 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2025, 22:16:19 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
