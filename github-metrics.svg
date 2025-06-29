@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcauley-penney/visual-whitespace.nvim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Imitate VSCode's "Render Whitespace" feature in visual mode</div>
@@ -743,7 +743,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>b0o/incline.nvim</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎈 Floating statuslines for Neovim, winbar alternative</div>
@@ -793,7 +793,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2025, 20:08:58 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2025, 21:19:29 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
