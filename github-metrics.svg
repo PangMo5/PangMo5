@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chrisgrieser/nvim-various-textobjs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bundle of more than 30 new text objects for Neovim.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chrisgrieser/nvim-spider</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.</div>
@@ -695,7 +695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcauley-penney/visual-whitespace.nvim</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Imitate VSCode's "Render Whitespace" feature in visual mode</div>
@@ -793,7 +793,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2025, 19:13:17 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2025, 20:10:33 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
