@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YaLTeR/niri</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A scrollable-tiling Wayland compositor.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bmf-san/ggc</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.</div>
@@ -695,7 +695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ThomazPom/Moz-Ext-UltimaDark</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web extension that uses aggressive techniques to enable dark mode on every site.</div>
@@ -792,7 +792,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2025, 14:11:36 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2025, 15:16:48 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
