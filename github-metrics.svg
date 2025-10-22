@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>servo/servo</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>khlopko/xcode-bsp</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Xcode Build Server</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2025, 11:25:46 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2025, 12:39:10 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
