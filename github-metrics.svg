@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mdaiter/SwiftScope</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Debugging in console for iOS and Mac apps with Claude, the command line, or a (non-Xcode) IDE</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/copilot-cli</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.</div>
@@ -613,7 +613,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2025, 20:08:53 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2025, 21:20:12 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
