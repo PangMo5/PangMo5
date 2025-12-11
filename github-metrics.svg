@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.0576854763947" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="398.0576854763947" y="0" width="18.85370692866859" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="416.9113924050633" y="0" width="14.68688864051846" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="431.5982810455817" y="0" width="8.61449897454368" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="440.21278002012536" y="0" width="5.789107512627903" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.00188753275324" y="0" width="5.368724881889959" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="451.3706124146432" y="0" width="4.848335196111559" height="8" fill="#71b417"/>
-                    <rect mask="url(#languages-bar)" x="456.21894761075475" y="0" width="3.781052389245148" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.0140628675064" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="398.0140628675064" y="0" width="18.851640776164945" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="416.8657036436714" y="0" width="14.685279124053066" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="431.55098276772446" y="0" width="8.613554923132929" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="440.1645376908574" y="0" width="5.78847309208523" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.9530107829426" y="0" width="5.418547314734366" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.371558097677" y="0" width="4.847803873547679" height="8" fill="#71b417"/>
+                    <rect mask="url(#languages-bar)" x="456.2193619712247" y="0" width="3.7806380287753467" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unhappychoice/gitlogue</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.</div>
@@ -613,7 +613,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2025, 18:17:11 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Dec 2025, 19:14:16 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
