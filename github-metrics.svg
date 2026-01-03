@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laishulu/macism</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reliable CLI MacOS Input Source Manager [MacOS上可靠切换输入法的命令行工具]</div>
@@ -575,7 +575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keaising/im-select.nvim</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Switch Input Method automatically depends on Neovim's edit mode</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2026, 12:50:54 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2026, 13:24:40 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
