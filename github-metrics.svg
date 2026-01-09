@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattt/swift-yyjson</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast JSON library for Swift, powered by yyjson</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glide-wm/glide</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiling window manager for macOS</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esmuellert/codediff.nvim</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jan 2026, 05:14:14 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2026, 06:12:39 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
