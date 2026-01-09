@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>langchain-ai/langchain</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦜🔗 The platform for reliable agents.</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>michaelb/sniprun</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2026, 09:59:06 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2026, 11:56:52 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
