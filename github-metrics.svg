@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gaborvecsei/usage-tracker.nvim</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes</div>
@@ -575,7 +575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OXY2DEV/tree-sitter-comment</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tree-sitter parser for conventional comments</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2026, 04:08:42 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2026, 05:13:05 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
