@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikaelmello/inquire</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust library for building interactive prompts</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clap-rs/clap</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full featured, fast Command Line Argument Parser for Rust</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ast-grep/ast-grep</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</div>
@@ -619,7 +619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2026, 20:36:40 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2026, 21:42:47 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
