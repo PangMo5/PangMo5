@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5747 Commits
+                            5748 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.8352774342495" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="396.8352774342495" y="0" width="18.795808478733452" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="415.63108591298294" y="0" width="15.370251353693309" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="431.0013372666763" y="0" width="8.588044434888378" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="439.58938170156466" y="0" width="5.771329557727196" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.36071125929186" y="0" width="5.659369334547105" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="451.020080593839" y="0" width="4.83344628892302" height="8" fill="#71b417"/>
-                    <rect mask="url(#languages-bar)" x="455.853526882762" y="0" width="4.146473117238031" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.4254596448202" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="396.4254596448202" y="0" width="18.776397763206607" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="415.2018574080268" y="0" width="15.36875220760113" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="430.570609615628" y="0" width="8.579175431586599" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="439.14978504721455" y="0" width="6.114199826676925" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="445.2639848738915" y="0" width="5.765369418455536" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.029354292347" y="0" width="4.8284547158797695" height="8" fill="#71b417"/>
+                    <rect mask="url(#languages-bar)" x="455.8578090082268" y="0" width="4.142190991773225" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -357,15 +357,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pointfreeco/pfw</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI for the Point-Free Way skills.</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tuist/agent-skills</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Agent Skills for working with Tuist projects</div>
@@ -510,7 +510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tuist/magnolia</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run your CI pipelines locally</div>
@@ -563,7 +563,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikaelmello/inquire</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust library for building interactive prompts</div>
@@ -613,7 +613,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2026, 14:57:41 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Feb 2026, 15:55:51 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
