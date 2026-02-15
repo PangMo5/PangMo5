@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anthrofract/jjdag</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TUI to manipulate the Jujutsu DAG.</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pointfreeco/pfw</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI for the Point-Free Way skills.</div>
@@ -613,7 +613,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2026, 10:15:25 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2026, 13:12:04 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
