@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            758 issue comments
+                            759 issue comments
                         </div>
                     </section>
                     <section>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ndonfris/fish-lsp</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LSP implementation for the fish shell language  🐠</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Feel-ix-343/markdown-oxide</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PKM Markdown Language Server</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tombi-toml/tombi</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TOML Formatter / Linter / Language Server</div>
@@ -575,7 +575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jceb/jiejie.nvim</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim frontend for Jujutsu in the style of vim-fugitive</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2026, 18:41:07 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Feb 2026, 19:37:47 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
