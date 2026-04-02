@@ -463,7 +463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>backnotprop/plannotator</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.</div>
@@ -516,7 +516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel-labs/agent-browser</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Browser automation CLI for AI agents</div>
@@ -569,7 +569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getsentry/dotagents</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -620,7 +620,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2026, 06:27:25 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2026, 07:22:42 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
