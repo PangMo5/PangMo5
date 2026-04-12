@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jrobhoward/dumap</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Disk usage visualization (treemap)</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dungngminh/simutil</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross platform utility TUI app for launching iOS simulators / Android emulators, discover physical devices, ADB tools and more</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2026, 13:38:56 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Apr 2026, 15:18:42 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
