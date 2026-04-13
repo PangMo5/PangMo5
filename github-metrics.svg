@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dungngminh/simutil</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross platform utility TUI app for launching iOS simulators / Android emulators, discover physical devices, ADB tools and more</div>
@@ -575,7 +575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oxipng/oxipng</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multithreaded PNG optimizer written in Rust</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2026, 10:29:20 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2026, 13:50:12 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
