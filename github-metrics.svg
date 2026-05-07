@@ -419,7 +419,7 @@
                                         <span>starred 1 day ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">A Neovim plugin to browse and manage Jira issues and Bitbucket pull requests without leaving your editor.</div>
+                                <div class="field description">A Neovim plugin to browse and manage GitHub/Bitbucket pull requests and Jira issues without leaving your editor.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -619,7 +619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2026, 05:57:04 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2026, 06:49:37 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
