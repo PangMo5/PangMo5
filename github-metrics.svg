@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emrearmagan/atlas.nvim</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Neovim plugin to browse and manage GitHub/Bitbucket pull requests and Jira issues without leaving your editor.</div>
@@ -569,7 +569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/hyperfine</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line benchmarking tool</div>
@@ -619,7 +619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2026, 10:54:33 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2026, 14:29:44 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
