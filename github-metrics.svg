@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wezterm/wezterm</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</div>
@@ -575,7 +575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>acsandmann/rift</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a tiling window manager for macos</div>
@@ -625,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2026, 06:55:34 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jun 2026, 07:55:14 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
