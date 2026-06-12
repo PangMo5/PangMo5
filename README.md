@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="PangMo5 — Apple devotee. iOS Engineer at Healingpaper, Seoul, Korea.">
+  <img src="assets/hero-light.svg" width="100%" alt="PangMo5 — Apple devotee. Kwangmin Bae / Shirou, iOS Engineer at Healingpaper, Seoul, Korea.">
 </picture>
 
 <a href="https://pangmo5.dev"><img src="assets/btn-blog.svg" height="44" alt="pangmo5.dev"></a>&nbsp;&nbsp;<a href="https://github.com/Healingpaper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-work-dark.svg"><img src="assets/btn-work-light.svg" height="44" alt="@Healingpaper"></picture></a>
