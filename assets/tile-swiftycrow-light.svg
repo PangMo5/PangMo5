@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340">
   <rect width="1080" height="340" fill="#f5f5f7"/>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif" text-anchor="middle">
-    <text x="540" y="130" font-size="48" font-weight="600" letter-spacing="-0.6" fill="#1d1d1f">SwiftyCrow</text>
-    <text x="540" y="184" font-size="27" font-weight="400" letter-spacing="0.2" fill="#6e6e73">Translate anything on your screen. Entirely on your Mac.</text>
-    <text x="540" y="240" font-size="21" font-weight="400" fill="#0066cc">Learn more ›</text>
-    <text x="540" y="290" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#86868b">No cloud. No keys. No quotas.</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif">
+    <text x="540" y="130" font-size="48" font-weight="600" letter-spacing="-0.6" fill="#1d1d1f" text-anchor="middle">SwiftyCrow</text>
+    <text x="540" y="182" font-size="27" font-weight="400" letter-spacing="0.2" fill="#6e6e73" text-anchor="middle">Translate anything on your screen.</text>
+    <text x="540" y="220" font-size="27" font-weight="400" letter-spacing="0.2" fill="#6e6e73" text-anchor="middle">Entirely on your Mac.</text>
+    <text x="540" y="278" font-size="21" font-weight="400" fill="#0066cc" text-anchor="middle">Learn more ›</text>
   </g>
 </svg>

@@ -146,6 +146,80 @@ function render(stats, theme) {
 `;
 }
 
+// Project tiles: catchphrase is pulled from each product page's hero
+// (first <p class="sub">, lines split on <br>), so copy edits on
+// pangmo5.dev propagate here automatically.
+const TILE_LIGHT = {
+  bg: "#f5f5f7",
+  ink: "#1d1d1f",
+  sub: "#6e6e73",
+  accent: "#0066cc",
+};
+const TILE_DARK = {
+  bg: "#2a2a2c",
+  ink: "#f5f5f7",
+  sub: "#cccccc",
+  accent: "#2997ff",
+};
+const TILE_DARK_DEEP = { ...TILE_DARK, bg: "#252527" };
+
+const PROJECTS = [
+  {
+    name: "Tatami",
+    page: "https://pangmo5.dev/Tatami/",
+    tiles: [["assets/tile-tatami.svg", TILE_DARK_DEEP]],
+  },
+  {
+    name: "SwiftyCrow",
+    page: "https://pangmo5.dev/SwiftyCrow/",
+    tiles: [
+      ["assets/tile-swiftycrow-light.svg", TILE_LIGHT],
+      ["assets/tile-swiftycrow-dark.svg", TILE_DARK],
+    ],
+  },
+];
+
+const decode = (s) =>
+  s
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;|&apos;/g, "'");
+
+async function fetchCatchphrase(pageUrl) {
+  const res = await fetch(pageUrl);
+  if (!res.ok) throw new Error(`${pageUrl} -> HTTP ${res.status}`);
+  const html = await res.text();
+  const match = html.match(/<p class="sub">(.*?)<\/p>/s);
+  if (!match) throw new Error(`${pageUrl}: no <p class="sub"> hero tagline`);
+  const lines = match[1]
+    .split(/<br\s*\/?>/)
+    .map((line) => decode(line.replace(/<[^>]+>/g, "")).trim())
+    .filter(Boolean);
+  if (!lines.length) throw new Error(`${pageUrl}: empty hero tagline`);
+  return lines;
+}
+
+function renderTile(name, lines, theme) {
+  const startY = 201 - (lines.length - 1) * 19;
+  const taglines = lines
+    .map(
+      (line, i) => `
+    <text x="540" y="${startY + i * 38}" font-size="27" font-weight="400" letter-spacing="0.2" fill="${theme.sub}" text-anchor="middle">${esc(line)}</text>`,
+    )
+    .join("");
+  const linkY = startY + (lines.length - 1) * 38 + 58;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340">
+  <rect width="1080" height="340" fill="${theme.bg}"/>
+  <g font-family="${FONT}">
+    <text x="540" y="130" font-size="48" font-weight="600" letter-spacing="-0.6" fill="${theme.ink}" text-anchor="middle">${esc(name)}</text>${taglines}
+    <text x="540" y="${linkY}" font-size="21" font-weight="400" fill="${theme.accent}" text-anchor="middle">Learn more ›</text>
+  </g>
+</svg>
+`;
+}
+
 const LIGHT = {
   bg: "#f5f5f7",
   ink: "#1d1d1f",
@@ -173,3 +247,22 @@ console.log(
   `metrics rendered: ${num(stats.stars)} stars, ${num(stats.contributions)} contributions, ` +
     `${stats.languages.map((l) => l.name).join("/")}`,
 );
+
+// A failed page fetch keeps the last committed tile (logged, not silent)
+// so a pangmo5.dev outage can't blank the README.
+let tileFailures = 0;
+for (const project of PROJECTS) {
+  try {
+    const lines = await fetchCatchphrase(project.page);
+    for (const [file, theme] of project.tiles)
+      writeFileSync(file, renderTile(project.name, lines, theme));
+    console.log(`tile rendered: ${project.name} — ${lines.join(" / ")}`);
+  } catch (error) {
+    tileFailures++;
+    console.error(`tile skipped (kept last version): ${project.name}: ${error.message}`);
+  }
+}
+if (tileFailures === PROJECTS.length && PROJECTS.length > 0) {
+  console.error("every tile fetch failed — failing the run");
+  process.exit(1);
+}
