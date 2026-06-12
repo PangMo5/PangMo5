@@ -9,7 +9,6 @@
 
 <br><br>
 
-<a href="https://github.com/jellyfin/Swiftfin"><img src="assets/tile-swiftfin.svg" width="100%" alt="Swiftfin — Your media. Beautifully native, on iOS and tvOS."></a>
 <a href="https://github.com/PangMo5/SwiftyCrow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-swiftycrow-dark.svg"><img src="assets/tile-swiftycrow-light.svg" width="100%" alt="SwiftyCrow — On-screen translation for the Mac. Entirely on-device."></picture></a>
 <a href="https://github.com/PangMo5/Tatami"><img src="assets/tile-tatami.svg" width="100%" alt="Tatami — Your windows. Beautifully arranged, the macOS way."></a>
 
