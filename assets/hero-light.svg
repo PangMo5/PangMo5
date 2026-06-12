@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="300" viewBox="0 0 1080 300">
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif" text-anchor="middle">
     <text x="540" y="132" font-size="72" font-weight="600" letter-spacing="-1.5" fill="#1d1d1f">Kwangmin Bae</text>
-    <text x="540" y="192" font-size="28" font-weight="400" letter-spacing="0.2" fill="#6e6e73">Apple devotee. Building beautifully native things in Swift.</text>
+    <text x="540" y="192" font-size="28" font-weight="400" letter-spacing="0.2" fill="#6e6e73">Apple devotee.</text>
     <text x="540" y="240" font-size="17" font-weight="400" letter-spacing="-0.2" fill="#86868b">iOS Engineer at Healingpaper · Seoul, Korea · @PangMo5</text>
   </g>
 </svg>

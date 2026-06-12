@@ -2,8 +2,8 @@
   <rect width="1080" height="340" fill="#2a2a2c"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif" text-anchor="middle">
     <text x="540" y="130" font-size="48" font-weight="600" letter-spacing="-0.6" fill="#f5f5f7">SwiftyCrow</text>
-    <text x="540" y="184" font-size="27" font-weight="400" letter-spacing="0.2" fill="#cccccc">On-screen translation for the Mac. Entirely on-device.</text>
+    <text x="540" y="184" font-size="27" font-weight="400" letter-spacing="0.2" fill="#cccccc">Translate anything on your screen. Entirely on your Mac.</text>
     <text x="540" y="240" font-size="21" font-weight="400" fill="#2997ff">Learn more ›</text>
-    <text x="540" y="290" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#86868b">Swift · Vision OCR · Apple Translation · 58 stars</text>
+    <text x="540" y="290" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#86868b">No cloud. No keys. No quotas.</text>
   </g>
 </svg>
