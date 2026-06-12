@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="github-metrics.svg" width="100%" alt="GitHub metrics">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg"><img src="assets/metrics-light.svg" width="100%" alt="By the numbers — stars earned, contributions, followers, pull requests, top languages and last 14 days of activity. Refreshed hourly."></picture>
 
 <sub>Designed in Seoul. Written in Swift. © 2026 Kwangmin Bae.</sub>
 
