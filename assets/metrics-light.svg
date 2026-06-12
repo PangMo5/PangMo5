@@ -14,21 +14,21 @@
     <text x="80" y="338" font-size="21" font-weight="600" letter-spacing="0.2" fill="#1d1d1f">Languages.</text>
     <text x="80" y="384" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">Swift</text>
     <rect x="200" y="374" width="240" height="6" rx="3" fill="#e0e0e0"/>
-    <rect x="200" y="374" width="220.5" height="6" rx="3" fill="#0066cc"/>
-    <text x="452" y="384" font-size="13" font-weight="400" fill="#86868b">91.9%</text>
+    <rect x="200" y="374" width="219.3" height="6" rx="3" fill="#0066cc"/>
+    <text x="452" y="384" font-size="13" font-weight="400" fill="#86868b">91.4%</text>
     <text x="80" y="418" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">CSS</text>
     <rect x="200" y="408" width="240" height="6" rx="3" fill="#e0e0e0"/>
     <rect x="200" y="408" width="9.6" height="6" rx="3" fill="#0066cc"/>
     <text x="452" y="418" font-size="13" font-weight="400" fill="#86868b">4.0%</text>
     <text x="80" y="452" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">HTML</text>
     <rect x="200" y="442" width="240" height="6" rx="3" fill="#e0e0e0"/>
-    <rect x="200" y="442" width="8.8" height="6" rx="3" fill="#0066cc"/>
-    <text x="452" y="452" font-size="13" font-weight="400" fill="#86868b">3.7%</text>
-    <text x="80" y="486" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">Ruby</text>
+    <rect x="200" y="442" width="8.7" height="6" rx="3" fill="#0066cc"/>
+    <text x="452" y="452" font-size="13" font-weight="400" fill="#86868b">3.6%</text>
+    <text x="80" y="486" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">JavaScript</text>
     <rect x="200" y="476" width="240" height="6" rx="3" fill="#e0e0e0"/>
     <rect x="200" y="476" width="4.0" height="6" rx="3" fill="#0066cc"/>
-    <text x="452" y="486" font-size="13" font-weight="400" fill="#86868b">0.2%</text>
-    <text x="80" y="520" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">Shell</text>
+    <text x="452" y="486" font-size="13" font-weight="400" fill="#86868b">0.5%</text>
+    <text x="80" y="520" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">Ruby</text>
     <rect x="200" y="510" width="240" height="6" rx="3" fill="#e0e0e0"/>
     <rect x="200" y="510" width="4.0" height="6" rx="3" fill="#0066cc"/>
     <text x="452" y="520" font-size="13" font-weight="400" fill="#86868b">0.2%</text>
