@@ -4,7 +4,7 @@
     <text x="540" y="92" font-size="34" font-weight="600" letter-spacing="-0.4" fill="#1d1d1f" text-anchor="middle">By the numbers.</text>
     <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">98</text>
     <text x="135" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">stars earned</text>
-    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,248</text>
+    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,251</text>
     <text x="405" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">contributions, past year</text>
     <text x="675" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">54</text>
     <text x="675" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">followers</text>
@@ -14,16 +14,16 @@
     <text x="80" y="338" font-size="21" font-weight="600" letter-spacing="0.2" fill="#1d1d1f">Languages.</text>
     <text x="80" y="384" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">Swift</text>
     <rect x="200" y="374" width="240" height="6" rx="3" fill="#e0e0e0"/>
-    <rect x="200" y="374" width="218.9" height="6" rx="3" fill="#0066cc"/>
-    <text x="452" y="384" font-size="13" font-weight="400" fill="#86868b">91.2%</text>
+    <rect x="200" y="374" width="219.3" height="6" rx="3" fill="#0066cc"/>
+    <text x="452" y="384" font-size="13" font-weight="400" fill="#86868b">91.4%</text>
     <text x="80" y="418" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">CSS</text>
     <rect x="200" y="408" width="240" height="6" rx="3" fill="#e0e0e0"/>
-    <rect x="200" y="408" width="9.5" height="6" rx="3" fill="#0066cc"/>
+    <rect x="200" y="408" width="9.3" height="6" rx="3" fill="#0066cc"/>
     <text x="452" y="418" font-size="13" font-weight="400" fill="#86868b">3.9%</text>
     <text x="80" y="452" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">HTML</text>
     <rect x="200" y="442" width="240" height="6" rx="3" fill="#e0e0e0"/>
-    <rect x="200" y="442" width="8.6" height="6" rx="3" fill="#0066cc"/>
-    <text x="452" y="452" font-size="13" font-weight="400" fill="#86868b">3.6%</text>
+    <rect x="200" y="442" width="8.5" height="6" rx="3" fill="#0066cc"/>
+    <text x="452" y="452" font-size="13" font-weight="400" fill="#86868b">3.5%</text>
     <text x="80" y="486" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">JavaScript</text>
     <rect x="200" y="476" width="240" height="6" rx="3" fill="#e0e0e0"/>
     <rect x="200" y="476" width="4.0" height="6" rx="3" fill="#0066cc"/>
@@ -33,21 +33,21 @@
     <rect x="200" y="510" width="4.0" height="6" rx="3" fill="#0066cc"/>
     <text x="452" y="520" font-size="13" font-weight="400" fill="#86868b">0.2%</text>
     <text x="580" y="338" font-size="21" font-weight="600" letter-spacing="0.2" fill="#1d1d1f">Last 14 days.</text>
-    <rect x="585" y="476.4" width="20" height="33.6" rx="6" fill="#0066cc"/>
-    <rect x="615" y="471.6" width="20" height="38.4" rx="6" fill="#0066cc"/>
-    <rect x="645" y="390.0" width="20" height="120.0" rx="6" fill="#0066cc"/>
-    <rect x="675" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="705" y="457.2" width="20" height="52.8" rx="6" fill="#0066cc"/>
-    <rect x="735" y="447.6" width="20" height="62.4" rx="6" fill="#0066cc"/>
-    <rect x="765" y="457.2" width="20" height="52.8" rx="6" fill="#0066cc"/>
-    <rect x="795" y="471.6" width="20" height="38.4" rx="6" fill="#0066cc"/>
-    <rect x="825" y="476.4" width="20" height="33.6" rx="6" fill="#0066cc"/>
+    <rect x="585" y="471.6" width="20" height="38.4" rx="6" fill="#0066cc"/>
+    <rect x="615" y="390.0" width="20" height="120.0" rx="6" fill="#0066cc"/>
+    <rect x="645" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
+    <rect x="675" y="457.2" width="20" height="52.8" rx="6" fill="#0066cc"/>
+    <rect x="705" y="447.6" width="20" height="62.4" rx="6" fill="#0066cc"/>
+    <rect x="735" y="457.2" width="20" height="52.8" rx="6" fill="#0066cc"/>
+    <rect x="765" y="471.6" width="20" height="38.4" rx="6" fill="#0066cc"/>
+    <rect x="795" y="476.4" width="20" height="33.6" rx="6" fill="#0066cc"/>
+    <rect x="825" y="418.8" width="20" height="91.2" rx="6" fill="#0066cc"/>
     <rect x="855" y="418.8" width="20" height="91.2" rx="6" fill="#0066cc"/>
-    <rect x="885" y="418.8" width="20" height="91.2" rx="6" fill="#0066cc"/>
-    <rect x="915" y="399.6" width="20" height="110.4" rx="6" fill="#0066cc"/>
-    <rect x="945" y="433.2" width="20" height="76.8" rx="6" fill="#0066cc"/>
-    <rect x="975" y="486.0" width="20" height="24.0" rx="6" fill="#0066cc"/>
-    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">172 contributions</text>
+    <rect x="885" y="399.6" width="20" height="110.4" rx="6" fill="#0066cc"/>
+    <rect x="915" y="433.2" width="20" height="76.8" rx="6" fill="#0066cc"/>
+    <rect x="945" y="476.4" width="20" height="33.6" rx="6" fill="#0066cc"/>
+    <rect x="975" y="505.2" width="20" height="4.8" rx="6" fill="#0066cc"/>
+    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">168 contributions</text>
     <text x="540" y="592" font-size="12" font-weight="400" letter-spacing="-0.1" fill="#86868b" text-anchor="middle">Refreshed hourly by GitHub Actions.</text>
   </g>
 </svg>
