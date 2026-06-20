@@ -2,7 +2,7 @@
   <rect width="1080" height="620" fill="#1d1d1f"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif">
     <text x="540" y="92" font-size="34" font-weight="600" letter-spacing="-0.4" fill="#f5f5f7" text-anchor="middle">By the numbers.</text>
-    <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">108</text>
+    <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">109</text>
     <text x="135" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#cccccc" text-anchor="middle">stars earned</text>
     <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">1,317</text>
     <text x="405" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#cccccc" text-anchor="middle">contributions, past year</text>
@@ -33,21 +33,21 @@
     <rect x="200" y="510" width="4.0" height="6" rx="3" fill="#2997ff"/>
     <text x="452" y="520" font-size="13" font-weight="400" fill="#86868b">0.2%</text>
     <text x="580" y="338" font-size="21" font-weight="600" letter-spacing="0.2" fill="#f5f5f7">Last 14 days.</text>
-    <rect x="585" y="491.5" width="20" height="18.5" rx="6" fill="#2997ff"/>
-    <rect x="615" y="493.8" width="20" height="16.2" rx="6" fill="#2997ff"/>
+    <rect x="585" y="493.8" width="20" height="16.2" rx="6" fill="#2997ff"/>
+    <rect x="615" y="466.2" width="20" height="43.8" rx="6" fill="#2997ff"/>
     <rect x="645" y="466.2" width="20" height="43.8" rx="6" fill="#2997ff"/>
-    <rect x="675" y="466.2" width="20" height="43.8" rx="6" fill="#2997ff"/>
-    <rect x="705" y="456.9" width="20" height="53.1" rx="6" fill="#2997ff"/>
-    <rect x="735" y="473.1" width="20" height="36.9" rx="6" fill="#2997ff"/>
-    <rect x="765" y="491.5" width="20" height="18.5" rx="6" fill="#2997ff"/>
-    <rect x="795" y="496.2" width="20" height="13.8" rx="6" fill="#2997ff"/>
+    <rect x="675" y="456.9" width="20" height="53.1" rx="6" fill="#2997ff"/>
+    <rect x="705" y="473.1" width="20" height="36.9" rx="6" fill="#2997ff"/>
+    <rect x="735" y="491.5" width="20" height="18.5" rx="6" fill="#2997ff"/>
+    <rect x="765" y="496.2" width="20" height="13.8" rx="6" fill="#2997ff"/>
+    <rect x="795" y="505.4" width="20" height="4.6" rx="6" fill="#2997ff"/>
     <rect x="825" y="505.4" width="20" height="4.6" rx="6" fill="#2997ff"/>
-    <rect x="855" y="505.4" width="20" height="4.6" rx="6" fill="#2997ff"/>
-    <rect x="885" y="486.9" width="20" height="23.1" rx="6" fill="#2997ff"/>
-    <rect x="915" y="475.4" width="20" height="34.6" rx="6" fill="#2997ff"/>
-    <rect x="945" y="390.0" width="20" height="120.0" rx="6" fill="#2997ff"/>
+    <rect x="855" y="486.9" width="20" height="23.1" rx="6" fill="#2997ff"/>
+    <rect x="885" y="475.4" width="20" height="34.6" rx="6" fill="#2997ff"/>
+    <rect x="915" y="390.0" width="20" height="120.0" rx="6" fill="#2997ff"/>
+    <rect x="945" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="975" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
-    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">187 contributions</text>
+    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">179 contributions</text>
     <text x="540" y="592" font-size="12" font-weight="400" letter-spacing="-0.1" fill="#86868b" text-anchor="middle">Refreshed hourly by GitHub Actions.</text>
   </g>
 </svg>
