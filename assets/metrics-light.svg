@@ -4,7 +4,7 @@
     <text x="540" y="92" font-size="34" font-weight="600" letter-spacing="-0.4" fill="#1d1d1f" text-anchor="middle">By the numbers.</text>
     <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">112</text>
     <text x="135" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">stars earned</text>
-    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,409</text>
+    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,410</text>
     <text x="405" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">contributions, past year</text>
     <text x="675" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">54</text>
     <text x="675" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">followers</text>
@@ -22,7 +22,7 @@
     <text x="452" y="418" font-size="13" font-weight="400" fill="#86868b">3.3%</text>
     <text x="80" y="452" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">CSS</text>
     <rect x="200" y="442" width="240" height="6" rx="3" fill="#e0e0e0"/>
-    <rect x="200" y="442" width="7.7" height="6" rx="3" fill="#0066cc"/>
+    <rect x="200" y="442" width="7.6" height="6" rx="3" fill="#0066cc"/>
     <text x="452" y="452" font-size="13" font-weight="400" fill="#86868b">3.2%</text>
     <text x="80" y="486" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">JavaScript</text>
     <rect x="200" y="476" width="240" height="6" rx="3" fill="#e0e0e0"/>
@@ -46,8 +46,8 @@
     <rect x="885" y="491.5" width="20" height="18.5" rx="6" fill="#0066cc"/>
     <rect x="915" y="473.1" width="20" height="36.9" rx="6" fill="#0066cc"/>
     <rect x="945" y="484.6" width="20" height="25.4" rx="6" fill="#0066cc"/>
-    <rect x="975" y="506.0" width="20" height="4.0" rx="6" fill="#0066cc"/>
-    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">109 contributions</text>
+    <rect x="975" y="505.4" width="20" height="4.6" rx="6" fill="#0066cc"/>
+    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">110 contributions</text>
     <text x="540" y="592" font-size="12" font-weight="400" letter-spacing="-0.1" fill="#86868b" text-anchor="middle">Refreshed hourly by GitHub Actions.</text>
   </g>
 </svg>
