@@ -165,16 +165,24 @@ const TILE_DARK_DEEP = { ...TILE_DARK, bg: "#252527" };
 
 const PROJECTS = [
   {
-    name: "Tatami",
-    page: "https://pangmo5.dev/Tatami/",
-    tiles: [["assets/tile-tatami.svg", TILE_DARK_DEEP]],
-  },
-  {
     name: "SwiftyCrow",
     page: "https://pangmo5.dev/SwiftyCrow/",
     tiles: [
       ["assets/tile-swiftycrow-light.svg", TILE_LIGHT],
       ["assets/tile-swiftycrow-dark.svg", TILE_DARK],
+    ],
+  },
+  {
+    name: "Tatami",
+    page: "https://pangmo5.dev/Tatami/",
+    tiles: [["assets/tile-tatami.svg", TILE_DARK_DEEP]],
+  },
+  {
+    name: "Amado",
+    page: "https://pangmo5.dev/Amado/",
+    tiles: [
+      ["assets/tile-amado-light.svg", TILE_LIGHT],
+      ["assets/tile-amado-dark.svg", TILE_DARK],
     ],
   },
 ];
@@ -201,15 +209,36 @@ async function fetchCatchphrase(pageUrl) {
   return lines;
 }
 
-function renderTile(name, lines, theme) {
-  const startY = 201 - (lines.length - 1) * 19;
+function wrapLine(line, maxLength = 54) {
+  if (line.length <= maxLength) return [line];
+
+  const wrapped = [];
+  let current = "";
+  for (const word of line.split(/\s+/)) {
+    const candidate = current ? `${current} ${word}` : word;
+    if (current && candidate.length > maxLength) {
+      wrapped.push(current);
+      current = word;
+    } else {
+      current = candidate;
+    }
+  }
+  if (current) wrapped.push(current);
+  return wrapped;
+}
+
+function renderTile(name, sourceLines, theme) {
+  const lines = sourceLines.flatMap((line) => wrapLine(line));
+  const taglineFontSize = lines.length >= 3 ? 24 : 27;
+  const lineGap = 34;
+  const startY = 204 - (lines.length - 1) * (lineGap / 2);
   const taglines = lines
     .map(
       (line, i) => `
-    <text x="540" y="${startY + i * 38}" font-size="27" font-weight="400" letter-spacing="0.2" fill="${theme.sub}" text-anchor="middle">${esc(line)}</text>`,
+    <text x="540" y="${startY + i * lineGap}" font-size="${taglineFontSize}" font-weight="400" letter-spacing="0.2" fill="${theme.sub}" text-anchor="middle">${esc(line)}</text>`,
     )
     .join("");
-  const linkY = startY + (lines.length - 1) * 38 + 58;
+  const linkY = Math.min(288, startY + (lines.length - 1) * lineGap + 52);
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340">
   <rect width="1080" height="340" fill="${theme.bg}"/>
   <g font-family="${FONT}">
@@ -256,13 +285,13 @@ for (const project of PROJECTS) {
     const lines = await fetchCatchphrase(project.page);
     for (const [file, theme] of project.tiles)
       writeFileSync(file, renderTile(project.name, lines, theme));
-    console.log(`tile rendered: ${project.name} — ${lines.join(" / ")}`);
+    console.log(`tile rendered: ${project.name}: ${lines.join(" / ")}`);
   } catch (error) {
     tileFailures++;
     console.error(`tile skipped (kept last version): ${project.name}: ${error.message}`);
   }
 }
 if (tileFailures === PROJECTS.length && PROJECTS.length > 0) {
-  console.error("every tile fetch failed — failing the run");
+  console.error("every tile fetch failed. Failing the run");
   process.exit(1);
 }
