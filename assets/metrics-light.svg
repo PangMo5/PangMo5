@@ -4,7 +4,7 @@
     <text x="540" y="92" font-size="34" font-weight="600" letter-spacing="-0.4" fill="#1d1d1f" text-anchor="middle">By the numbers.</text>
     <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">118</text>
     <text x="135" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">stars earned</text>
-    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,485</text>
+    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,492</text>
     <text x="405" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">contributions, past year</text>
     <text x="675" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">54</text>
     <text x="675" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">followers</text>
@@ -18,7 +18,7 @@
     <text x="452" y="384" font-size="13" font-weight="400" fill="#86868b">91.9%</text>
     <text x="80" y="418" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">HTML</text>
     <rect x="200" y="408" width="240" height="6" rx="3" fill="#e0e0e0"/>
-    <rect x="200" y="408" width="9.1" height="6" rx="3" fill="#0066cc"/>
+    <rect x="200" y="408" width="9.2" height="6" rx="3" fill="#0066cc"/>
     <text x="452" y="418" font-size="13" font-weight="400" fill="#86868b">3.8%</text>
     <text x="80" y="452" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#1d1d1f">CSS</text>
     <rect x="200" y="442" width="240" height="6" rx="3" fill="#e0e0e0"/>
@@ -35,19 +35,19 @@
     <text x="580" y="338" font-size="21" font-weight="600" letter-spacing="0.2" fill="#1d1d1f">Last 14 days.</text>
     <rect x="585" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="615" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="645" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="675" y="479.0" width="20" height="31.0" rx="6" fill="#0066cc"/>
-    <rect x="705" y="448.1" width="20" height="61.9" rx="6" fill="#0066cc"/>
-    <rect x="735" y="455.8" width="20" height="54.2" rx="6" fill="#0066cc"/>
-    <rect x="765" y="479.0" width="20" height="31.0" rx="6" fill="#0066cc"/>
-    <rect x="795" y="459.7" width="20" height="50.3" rx="6" fill="#0066cc"/>
+    <rect x="645" y="483.3" width="20" height="26.7" rx="6" fill="#0066cc"/>
+    <rect x="675" y="456.7" width="20" height="53.3" rx="6" fill="#0066cc"/>
+    <rect x="705" y="463.3" width="20" height="46.7" rx="6" fill="#0066cc"/>
+    <rect x="735" y="483.3" width="20" height="26.7" rx="6" fill="#0066cc"/>
+    <rect x="765" y="466.7" width="20" height="43.3" rx="6" fill="#0066cc"/>
+    <rect x="795" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="825" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="855" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="885" y="490.6" width="20" height="19.4" rx="6" fill="#0066cc"/>
-    <rect x="915" y="417.1" width="20" height="92.9" rx="6" fill="#0066cc"/>
-    <rect x="945" y="482.9" width="20" height="27.1" rx="6" fill="#0066cc"/>
-    <rect x="975" y="390.0" width="20" height="120.0" rx="6" fill="#0066cc"/>
-    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">126 contributions</text>
+    <rect x="855" y="493.3" width="20" height="16.7" rx="6" fill="#0066cc"/>
+    <rect x="885" y="430.0" width="20" height="80.0" rx="6" fill="#0066cc"/>
+    <rect x="915" y="486.7" width="20" height="23.3" rx="6" fill="#0066cc"/>
+    <rect x="945" y="390.0" width="20" height="120.0" rx="6" fill="#0066cc"/>
+    <rect x="975" y="503.3" width="20" height="6.7" rx="6" fill="#0066cc"/>
+    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">133 contributions</text>
     <text x="540" y="592" font-size="12" font-weight="400" letter-spacing="-0.1" fill="#86868b" text-anchor="middle">Refreshed hourly by GitHub Actions.</text>
   </g>
 </svg>
