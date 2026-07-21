@@ -4,11 +4,11 @@
     <text x="540" y="92" font-size="34" font-weight="600" letter-spacing="-0.4" fill="#1d1d1f" text-anchor="middle">By the numbers.</text>
     <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">120</text>
     <text x="135" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">stars earned</text>
-    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,516</text>
+    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,519</text>
     <text x="405" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">contributions, past year</text>
     <text x="675" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">54</text>
     <text x="675" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">followers</text>
-    <text x="945" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,379</text>
+    <text x="945" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#1d1d1f" text-anchor="middle">1,380</text>
     <text x="945" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#6e6e73" text-anchor="middle">pull requests</text>
     <line x1="80" y1="278" x2="1000" y2="278" stroke="#e0e0e0" stroke-width="1"/>
     <text x="80" y="338" font-size="21" font-weight="600" letter-spacing="0.2" fill="#1d1d1f">Languages.</text>
@@ -46,8 +46,8 @@
     <rect x="885" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="915" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="945" y="393.3" width="20" height="116.7" rx="6" fill="#0066cc"/>
-    <rect x="975" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">147 contributions</text>
+    <rect x="975" y="500.0" width="20" height="10.0" rx="6" fill="#0066cc"/>
+    <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">150 contributions</text>
     <text x="540" y="592" font-size="12" font-weight="400" letter-spacing="-0.1" fill="#86868b" text-anchor="middle">Refreshed hourly by GitHub Actions.</text>
   </g>
 </svg>
