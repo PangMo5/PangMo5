@@ -2,7 +2,7 @@
   <rect width="1080" height="620" fill="#1d1d1f"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif">
     <text x="540" y="92" font-size="34" font-weight="600" letter-spacing="-0.4" fill="#f5f5f7" text-anchor="middle">By the numbers.</text>
-    <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">178</text>
+    <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">179</text>
     <text x="135" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#cccccc" text-anchor="middle">stars earned</text>
     <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">1,798</text>
     <text x="405" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#cccccc" text-anchor="middle">contributions, past year</text>
@@ -42,8 +42,8 @@
     <rect x="765" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="795" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="825" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
-    <rect x="855" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
-    <rect x="885" y="390.0" width="20" height="120.0" rx="6" fill="#2997ff"/>
+    <rect x="855" y="390.0" width="20" height="120.0" rx="6" fill="#2997ff"/>
+    <rect x="885" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="915" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="945" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="975" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
