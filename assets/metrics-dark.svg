@@ -4,7 +4,7 @@
     <text x="540" y="92" font-size="34" font-weight="600" letter-spacing="-0.4" fill="#f5f5f7" text-anchor="middle">By the numbers.</text>
     <text x="135" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">180</text>
     <text x="135" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#cccccc" text-anchor="middle">stars earned</text>
-    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">1,798</text>
+    <text x="405" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">1,792</text>
     <text x="405" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#cccccc" text-anchor="middle">contributions, past year</text>
     <text x="675" y="196" font-size="52" font-weight="600" letter-spacing="-1" fill="#f5f5f7" text-anchor="middle">59</text>
     <text x="675" y="230" font-size="15" font-weight="400" letter-spacing="-0.2" fill="#cccccc" text-anchor="middle">followers</text>
@@ -39,8 +39,8 @@
     <rect x="675" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="705" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="735" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
-    <rect x="765" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
-    <rect x="795" y="390.0" width="20" height="120.0" rx="6" fill="#2997ff"/>
+    <rect x="765" y="390.0" width="20" height="120.0" rx="6" fill="#2997ff"/>
+    <rect x="795" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="825" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="855" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
     <rect x="885" y="506.0" width="20" height="4.0" rx="6" fill="#3a3a3c"/>
