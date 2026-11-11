@@ -36,15 +36,15 @@
     <rect x="585" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="615" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="645" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="675" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="705" y="417.3" width="20" height="92.7" rx="6" fill="#0066cc"/>
-    <rect x="735" y="390.0" width="20" height="120.0" rx="6" fill="#0066cc"/>
-    <rect x="765" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="795" y="499.1" width="20" height="10.9" rx="6" fill="#0066cc"/>
-    <rect x="825" y="488.2" width="20" height="21.8" rx="6" fill="#0066cc"/>
+    <rect x="675" y="417.3" width="20" height="92.7" rx="6" fill="#0066cc"/>
+    <rect x="705" y="390.0" width="20" height="120.0" rx="6" fill="#0066cc"/>
+    <rect x="735" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
+    <rect x="765" y="499.1" width="20" height="10.9" rx="6" fill="#0066cc"/>
+    <rect x="795" y="488.2" width="20" height="21.8" rx="6" fill="#0066cc"/>
+    <rect x="825" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="855" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="885" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
-    <rect x="915" y="466.4" width="20" height="43.6" rx="6" fill="#0066cc"/>
+    <rect x="885" y="466.4" width="20" height="43.6" rx="6" fill="#0066cc"/>
+    <rect x="915" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="945" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <rect x="975" y="506.0" width="20" height="4.0" rx="6" fill="#e0e0e0"/>
     <text x="580" y="544" font-size="13" font-weight="400" fill="#86868b">53 contributions</text>
