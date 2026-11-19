@@ -14,6 +14,6 @@
 <a href="https://github.com/PangMo5/Tatami"><img src="assets/tile-tatami.svg" width="100%" alt="Tatami. A macOS workspace manager with yabai-style window tiling."></a>
 <a href="https://github.com/PangMo5/Amado"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-amado-dark.svg"><img src="assets/tile-amado-light.svg" width="100%" alt="Amado. Lock on demand, lock on departure, or keep your MacBook running closed."></picture></a>
 
-<p><a href="https://buymeacoffee.com/pangmo5">Support my open-source work</a></p>
+<p><a href="https://buymeacoffee.com/pangmo5"><img src="https://pangmo5.dev/buy-me-a-coffee.png" alt="Support my open-source work on Buy Me a Coffee" width="144"></a></p>
 
 </div>
